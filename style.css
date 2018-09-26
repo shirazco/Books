@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Quicksand');
-@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+
 @import url('https://fonts.googleapis.com/css?family=Montserrat');
 @import url('https://fonts.googleapis.com/css?family=Cabin+Sketch');
 
@@ -21,8 +20,8 @@ html, body {
 	vertical-align: middle;
 	text-align: center;
 	color: #97301F;
-	font-family: 'Montserrat', sans-serif;/*
-	text-shadow: 0 0 10px #000000;*/
+	font-family: 'Montserrat', sans-serif;
+	/*text-shadow: 0 0 10px #000000;*/
 }
 
 h1 {
@@ -61,35 +60,3 @@ h3 {
 		font-size: 100%;
 	}
 }
-
-
-/*
-background-repeat: no-repeat;
-	
-	background-attachment: fixed;
-	
-
-
-.container {
-	font-family: 'Cabin Sketch', cursive;
-	font-family: 'Montserrat', sans-serif;
-	color: white;
-	
-	
-	
-}
-
-#title {
-	font-size: 2em;
-	font-weight: 700;
-	padding-bottom: 20px;
-}
-
-#description {
-	font-size: 1em;
-	font-weight: 700;
-	padding-bottom: 20px;
-}
-
-.btn-outline-primary {
-}*/
